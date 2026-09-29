@@ -1,21 +1,18 @@
 <div align="center">
-  <img src="./assets/ink-tech-ai-header-bg-final-1200.png" width="100%" alt="Ink-wash AI landscape with a road toward the future" />
+  <img src="./assets/ink-tech-ai-header-final-1200.png" width="100%" alt="Kitho Lee — AI researcher, engineer, and builder, framed by an ink-wash technological landscape" />
 </div>
 
-<h1 align="center">Jiehao Li · Kitho Lee</h1>
-
-<p align="center"><code>AI RESEARCHER · ENGINEER · BUILDER</code></p>
-
 <div align="center">
+  <img src="https://img.shields.io/badge/SYSTEM-ONLINE-07111F?style=for-the-badge&labelColor=07111F&color=22D3EE" alt="System online" />
+  <img src="https://img.shields.io/badge/NODE-MACAU-07111F?style=for-the-badge&labelColor=07111F&color=64748B" alt="Node: Macau" />
+  <img src="https://img.shields.io/badge/MODE-AI_RESEARCH-07111F?style=for-the-badge&labelColor=07111F&color=8B5CF6" alt="Mode: AI research" />
   <a href="https://github.com/Kitho-Lee?tab=followers">
-    <img src="https://img.shields.io/github/followers/Kitho-Lee?style=for-the-badge&logo=github&label=FOLLOWERS&color=334155&labelColor=0B1020" alt="GitHub followers" />
+    <img src="https://img.shields.io/github/followers/Kitho-Lee?style=for-the-badge&logo=github&label=UPLINK&color=334155&labelColor=07111F" alt="GitHub followers" />
   </a>
-  <img src="https://img.shields.io/badge/MUST-MACAU-334155?style=for-the-badge&labelColor=0B1020" alt="Macau University of Science and Technology" />
-  <img src="https://img.shields.io/badge/FOCUS-ARTIFICIAL_INTELLIGENCE-0B1020?style=for-the-badge&logo=openai&logoColor=7DD3FC" alt="Focus: Artificial Intelligence" />
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=3200&pause=1000&color=38BDF8&center=true&vCenter=true&width=820&lines=%3E+AI+Researcher+%C2%B7+Engineer+%C2%B7+Builder;%3E+Connecting+algorithms+with+real-world+systems;%3E+Research+mode%3A+active_" alt="Typing introduction" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=17&duration=3200&pause=900&color=22D3EE&center=true&vCenter=true&width=860&lines=%24+initializing+intelligent+systems...;%24+research+%C3%97+engineering+%C3%97+real-world+deployment;%24+current_status%3A+building+what+comes+next_" alt="Animated research terminal introduction" />
 </div>
 
 <br />
@@ -23,29 +20,33 @@
 ## 01 // SYSTEM PROFILE
 
 ```text
-IDENTITY    Jiehao Li · Kitho Lee
-AFFILIATION Macau University of Science and Technology
-LOCATION    Macau
-FOCUS       Artificial Intelligence
-MODE        Research × Engineering × Building
+$ whoami
+  Jiehao Li / Kitho Lee
+
+$ system.status --verbose
+  affiliation : Macau University of Science and Technology
+  location    : Macau
+  focus       : Artificial Intelligence
+  mode        : Research × Engineering × Building
+  objective   : Intelligent systems that work beyond the lab
 ```
 
-Hi, I'm **Jiehao Li (Kitho Lee)** 👋
+Hi, I'm **Jiehao Li — Kitho Lee online.**
 
-I'm an undergraduate student at **Macau University of Science and Technology**, focused on building intelligent systems that connect algorithms with real-world applications.
+I'm an undergraduate student at **Macau University of Science and Technology**, building intelligent systems that connect algorithms with real-world applications.
 
-My interests sit at the intersection of **artificial intelligence, signal processing, optimization, and engineering systems**. I enjoy moving between research and implementation — from understanding the structure behind data to turning an idea into a system that works beyond the lab.
+My work lives where **artificial intelligence, signal processing, optimization, and engineering systems** converge. I move between theory and implementation: understanding the structure behind data, designing learning systems around it, and turning research ideas into technology that survives outside the lab.
 
 ## 02 // RESEARCH VECTORS
 
-| NODE | DOMAIN | CURRENT QUESTION |
+| VECTOR | DOMAIN | SIGNAL |
 |:--:|---|---|
-| 🤖 | **Artificial Intelligence & Machine Learning** | Robust and practical learning systems |
-| 📈 | **Time Series & Representation Learning** | Models that preserve meaningful temporal structure |
-| 🧠 | **Reinforcement Learning** | Sequential decision-making in complex environments |
-| 📡 | **Intelligent Networking** | AI for wireless communications and resource allocation |
-| 🎬 | **Generative AI** | Controllable, temporally consistent video generation |
-| 🌊 | **Embodied & Autonomous AI** | Perception, decision-making, and physical execution |
+| `AI.01` | **Artificial Intelligence & Machine Learning** | Robust, practical learning systems |
+| `TS.02` | **Time Series & Representation Learning** | Preserving meaningful temporal structure |
+| `RL.03` | **Reinforcement Learning** | Decision-making under complex dynamics |
+| `NET.04` | **Intelligent Networking** | AI-native wireless access and allocation |
+| `GEN.05` | **Generative AI** | Controllable, temporally coherent video |
+| `AUTO.06` | **Embodied & Autonomous AI** | Perception → reasoning → physical action |
 
 ## 03 // ACTIVE MODULES
 
@@ -53,20 +54,24 @@ My interests sit at the intersection of **artificial intelligence, signal proces
   <tr>
     <td width="50%" valign="top">
       <h3>MODULE_01 · Structure-Preserving Forecasting</h3>
+      <p><code>STATUS: ACTIVE</code> · <code>TRACK: TIME SERIES</code></p>
       <p>Exploring models that preserve trends, periodicity, power spectral density, and autocorrelation — not prediction error alone.</p>
     </td>
     <td width="50%" valign="top">
       <h3>MODULE_02 · RL for Wireless Systems</h3>
+      <p><code>STATUS: ACTIVE</code> · <code>TRACK: DECISION INTELLIGENCE</code></p>
       <p>Studying online and offline reinforcement learning for intelligent channel access and wireless coexistence.</p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
       <h3>MODULE_03 · Generative AI for E-commerce</h3>
+      <p><code>STATUS: EXPLORING</code> · <code>TRACK: VIDEO GENERATION</code></p>
       <p>Investigating temporal consistency and controllability in AI-generated product videos.</p>
     </td>
     <td width="50%" valign="top">
       <h3>MODULE_04 · Embodied & Autonomous AI</h3>
+      <p><code>STATUS: EXPLORING</code> · <code>TRACK: AUTONOMOUS SYSTEMS</code></p>
       <p>Exploring systems that combine perception, reasoning, decision-making, and physical execution.</p>
     </td>
   </tr>
@@ -103,13 +108,27 @@ My interests sit at the intersection of **artificial intelligence, signal proces
 
 ## 05 // RESEARCH PRINCIPLE
 
+> ### `CORE_AXIOM`
+>
 > **Low error does not necessarily mean a model truly understands the structure of the data.**
 
 I'm interested in AI systems that are not only accurate, but also **robust, interpretable, structurally consistent, and deployable in the real world**.
 
 ## 06 // BUILD MODE
 
-I enjoy turning technical ideas into practical products. My interests span **AI × Engineering × Entrepreneurship**, because the most interesting intelligent systems emerge when research meets real-world constraints.
+<table>
+  <tr>
+    <td width="33%" align="center"><b>RESEARCH</b><br /><sub>Find the structure.</sub></td>
+    <td width="33%" align="center"><b>ENGINEERING</b><br /><sub>Build the system.</sub></td>
+    <td width="33%" align="center"><b>ENTREPRENEURSHIP</b><br /><sub>Create real-world value.</sub></td>
+  </tr>
+</table>
+
+I enjoy turning technical ideas into practical products. The most interesting intelligent systems appear when **research meets constraints, engineering meets scale, and ideas meet people**.
+
+```text
+IDEA ──► MODEL ──► SYSTEM ──► IMPACT
+```
 
 ## 07 // TELEMETRY
 

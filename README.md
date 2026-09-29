@@ -1,118 +1,141 @@
 <div align="center">
-  <img src="./assets/ink-tech-header-v2.svg" width="100%" alt="Kitho Lee — ink and technology" />
+  <img src="./assets/ink-tech-ai-header.svg" width="100%" alt="Jiehao Li — AI researcher, engineer, and builder" />
 </div>
 
 <div align="center">
   <a href="https://github.com/Kitho-Lee?tab=followers">
-    <img src="https://img.shields.io/github/followers/Kitho-Lee?style=for-the-badge&logo=github&label=FOLLOWERS&color=B8893E&labelColor=111111" alt="GitHub followers" />
+    <img src="https://img.shields.io/github/followers/Kitho-Lee?style=for-the-badge&logo=github&label=FOLLOWERS&color=334155&labelColor=0B1020" alt="GitHub followers" />
   </a>
-  <img src="https://img.shields.io/badge/PROFILE-ONLINE-B8893E?style=for-the-badge&labelColor=111111" alt="Profile online" />
-  <a href="https://github.com/Kitho-Lee">
-    <img src="https://img.shields.io/badge/BUILDING_IN_PUBLIC-111111?style=for-the-badge&logo=github&logoColor=B8893E" alt="Building in public" />
-  </a>
+  <img src="https://img.shields.io/badge/MUST-MACAU-334155?style=for-the-badge&labelColor=0B1020" alt="Macau University of Science and Technology" />
+  <img src="https://img.shields.io/badge/FOCUS-ARTIFICIAL_INTELLIGENCE-0B1020?style=for-the-badge&logo=openai&logoColor=7DD3FC" alt="Focus: Artificial Intelligence" />
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=3000&pause=1000&color=B8893E&center=true&vCenter=true&width=760&lines=Designing+with+intention.;Building+with+curiosity.;Learning+in+public%2C+one+commit+at+a+time." alt="Typing introduction" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=3200&pause=1000&color=38BDF8&center=true&vCenter=true&width=820&lines=%3E+AI+Researcher+%C2%B7+Engineer+%C2%B7+Builder;%3E+Connecting+algorithms+with+real-world+systems;%3E+Research+mode%3A+active_" alt="Typing introduction" />
 </div>
 
 <br />
 
-## 01 · About
+## 01 // SYSTEM PROFILE
 
-I'm **Kitho Lee** — a curious developer drawn to the space where thoughtful design, modern technology, and practical intelligence meet.
+```text
+IDENTITY    Jiehao Li · Kitho Lee
+AFFILIATION Macau University of Science and Technology
+LOCATION    Macau
+FOCUS       Artificial Intelligence
+MODE        Research × Engineering × Building
+```
 
-I enjoy turning uncertain ideas into clear, useful digital experiences. Right now, I am building strong foundations across the modern web, exploring how AI can improve everyday tools, and documenting the process openly as I grow.
+Hi, I'm **Jiehao Li (Kitho Lee)** 👋
 
-> My approach is simple: stay curious, build with intention, and let every project teach me something new.
+I'm an undergraduate student at **Macau University of Science and Technology**, focused on building intelligent systems that connect algorithms with real-world applications.
 
-## 02 · Currently exploring
+My interests sit at the intersection of **artificial intelligence, signal processing, optimization, and engineering systems**. I enjoy moving between research and implementation — from understanding the structure behind data to turning an idea into a system that works beyond the lab.
 
-<div align="center">
-  <img src="https://img.shields.io/badge/HTML5-111111?style=for-the-badge&logo=html5&logoColor=B8893E" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-111111?style=for-the-badge&logo=css&logoColor=B8893E" alt="CSS3" />
-  <img src="https://img.shields.io/badge/JavaScript-111111?style=for-the-badge&logo=javascript&logoColor=B8893E" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/TypeScript-111111?style=for-the-badge&logo=typescript&logoColor=B8893E" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/React-111111?style=for-the-badge&logo=react&logoColor=B8893E" alt="React" />
-  <img src="https://img.shields.io/badge/Node.js-111111?style=for-the-badge&logo=nodedotjs&logoColor=B8893E" alt="Node.js" />
-  <img src="https://img.shields.io/badge/Python-111111?style=for-the-badge&logo=python&logoColor=B8893E" alt="Python" />
-  <img src="https://img.shields.io/badge/Git-111111?style=for-the-badge&logo=git&logoColor=B8893E" alt="Git" />
-</div>
+## 02 // RESEARCH VECTORS
 
-## 03 · Signal & momentum
+| NODE | DOMAIN | CURRENT QUESTION |
+|:--:|---|---|
+| 🤖 | **Artificial Intelligence & Machine Learning** | Robust and practical learning systems |
+| 📈 | **Time Series & Representation Learning** | Models that preserve meaningful temporal structure |
+| 🧠 | **Reinforcement Learning** | Sequential decision-making in complex environments |
+| 📡 | **Intelligent Networking** | AI for wireless communications and resource allocation |
+| 🎬 | **Generative AI** | Controllable, temporally consistent video generation |
+| 🌊 | **Embodied & Autonomous AI** | Perception, decision-making, and physical execution |
+
+## 03 // ACTIVE MODULES
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>MODULE_01 · Structure-Preserving Forecasting</h3>
+      <p>Exploring models that preserve trends, periodicity, power spectral density, and autocorrelation — not prediction error alone.</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>MODULE_02 · RL for Wireless Systems</h3>
+      <p>Studying online and offline reinforcement learning for intelligent channel access and wireless coexistence.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>MODULE_03 · Generative AI for E-commerce</h3>
+      <p>Investigating temporal consistency and controllability in AI-generated product videos.</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>MODULE_04 · Embodied & Autonomous AI</h3>
+      <p>Exploring systems that combine perception, reasoning, decision-making, and physical execution.</p>
+    </td>
+  </tr>
+</table>
+
+## 04 // TOOLCHAIN
+
+**LANGUAGES**
+
+<p>
+  <img src="https://img.shields.io/badge/Python-0B1020?style=for-the-badge&logo=python&logoColor=7DD3FC" alt="Python" />
+  <img src="https://img.shields.io/badge/C%2B%2B-0B1020?style=for-the-badge&logo=cplusplus&logoColor=7DD3FC" alt="C++" />
+  <img src="https://img.shields.io/badge/MATLAB-0B1020?style=for-the-badge&logo=mathworks&logoColor=7DD3FC" alt="MATLAB" />
+  <img src="https://img.shields.io/badge/SQL-0B1020?style=for-the-badge&logo=postgresql&logoColor=7DD3FC" alt="SQL" />
+</p>
+
+**AI / MACHINE LEARNING**
+
+<p>
+  <img src="https://img.shields.io/badge/PyTorch-0B1020?style=for-the-badge&logo=pytorch&logoColor=7DD3FC" alt="PyTorch" />
+  <img src="https://img.shields.io/badge/Transformers-0B1020?style=for-the-badge&logo=huggingface&logoColor=7DD3FC" alt="Transformers" />
+  <img src="https://img.shields.io/badge/Reinforcement_Learning-0B1020?style=for-the-badge&logoColor=7DD3FC" alt="Reinforcement Learning" />
+  <img src="https://img.shields.io/badge/Time_Series-0B1020?style=for-the-badge&logoColor=7DD3FC" alt="Time Series" />
+  <img src="https://img.shields.io/badge/Generative_AI-0B1020?style=for-the-badge&logo=openai&logoColor=A78BFA" alt="Generative AI" />
+</p>
+
+**RESEARCH / ENGINEERING**
+
+`ns-3` · `Optimization` · `Signal Processing` · `Computer Networks`
+
+**CURRENTLY EXPLORING**
+
+`MLX` · `LoRA` · `Local LLMs` · `AI Agents`
+
+## 05 // RESEARCH PRINCIPLE
+
+> **Low error does not necessarily mean a model truly understands the structure of the data.**
+
+I'm interested in AI systems that are not only accurate, but also **robust, interpretable, structurally consistent, and deployable in the real world**.
+
+## 06 // BUILD MODE
+
+I enjoy turning technical ideas into practical products. My interests span **AI × Engineering × Entrepreneurship**, because the most interesting intelligent systems emerge when research meets real-world constraints.
+
+## 07 // TELEMETRY
 
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Kitho-Lee&theme=github_dark" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Kitho-Lee&theme=default" />
-    <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Kitho-Lee&theme=default" alt="GitHub profile activity summary" />
+    <source mdia="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Kitho-Lee&theme=github_dark" />
+    <img width="100%" src="https://github-profile-sumary-cards.vercel.app/api/cards/profile-details?username=Kitho-Lee&theme=github_dark" alt="GitHub profile activity summary" />
   </picture>
 </div>
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=Kitho-Lee&hide_border=true&background=0D1117&ring=B8893E&fire=D1A759&currStreakLabel=D1A759&sideLabels=C9D1D9&dates=8B949E&currStreakNum=FFFFFF&sideNums=FFFFFF" />
-    <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=Kitho-Lee&hide_border=true&background=F7F3EA&ring=8C642D&fire=B8893E&currStreakLabel=8C642D&sideLabels=44413C&dates=77736D&currStreakNum=111111&sideNums=111111" />
-    <img src="https://streak-stats.demolab.com?user=Kitho-Lee&hide_border=true&background=F7F3EA&ring=8C642D&fire=B8893E&currStreakLabel=8C642D&sideLabels=44413C&dates=77736D&currStreakNum=111111&sideNums=111111" alt="GitHub contribution streak" />
+    <source mdia="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=Kitho-Lee&hide_border=true&background=0B1020&ring=38BDF8&fire=A78BFA&currStreakLabel=7DD3FC&sideLabels=C9D1D9&dates=64748B&currStreakNum=FFFFFF&sideNums=FFFFFF" />
+    <source mdia="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=Kitho-Lee&hide_border=true&background=0B1020&ring=38BDF8&fire=A78BFA&currStreakLabel=7DD3FC&sideLabels=C9D1D9&dates=64748B&currStreakNum=FFFFFF&sideNums=FFFFFF" />
+    <img src="https://streak-stats.demolab.com?user=Kitho-Lee&hide_border=true&background=0B1020&ring=38BDF8&fire=A78BFA&currStreakLabel=7DD3FC&sideLabels=C9D1D9&dates=64748B&currStreakNum=FFFFFF&sideNums=FFFFFF" alt="GitHub contribution streak" />
   </picture>
 </div>
 
-## 04 · The roadmap
-
-<table>
-  <tr>
-    <td align="center" width="33%">
-      <h3>01 · Explore</h3>
-      <p>Learn the fundamentals deeply.</p>
-    </td>
-    <td align="center" width="33%">
-      <h3>02 · Build</h3>
-      <p>Turn small ideas into real products.</p>
-    </td>
-    <td align="center" width="33%">
-      <h3>03 · Share</h3>
-      <p>Document the journey in public.</p>
-    </td>
-  </tr>
-</table>
-
-## 05 · Build log
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>✦ 01 · First project</h3>
-      <p>The first public build is taking shape. Good things start with an empty repository.</p>
-      <p><code>idea</code> <code>prototype</code> <code>ship</code></p>
-      <strong>Coming soon →</strong>
-    </td>
-    <td width="50%" valign="top">
-      <h3>✦ 02 · Open source</h3>
-      <p>Learning in public and preparing to make the first meaningful contribution.</p>
-      <p><code>learn</code> <code>contribute</code> <code>grow</code></p>
-      <strong>Next up →</strong>
-    </td>
-  </tr>
-</table>
-
-## 06 · Current signal
-
-- 🔭 Building a public developer journey from the ground up
-- 🌱 Exploring modern web development and practical AI
-- 🧩 Turning small ideas into working, shareable projects
-- ⚡ Believing that consistency beats intensity
-
-## 07 · Find me here
+## 08 // LINK
 
 <div align="center">
   <a href="https://github.com/Kitho-Lee">
-    <img src="https://img.shields.io/badge/GitHub-Kitho--Lee-111111?style=for-the-badge&logo=github&logoColor=B8893E" alt="GitHub profile" />
+    <img src="https://img.shields.io/badge/GitHub-Kitho--Lee-0B1020?style=for-the-badge&logo=github&logoColor=7DD3FC" alt="GitHub profile" />
   </a>
 </div>
 
 <br />
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=B8893E" width="100%" alt="Gold divider" />
-  <sub>DESIGNED WITH CURIOSITY · BUILT WITH INTENTION</sub>
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=38BDF8" width="100%" alt="Cyan divider" />
+  <sub><b>// BUILD THINGS · UNDERSTANDD SYSTEMS · KEEP MOVING FORWARD //</b></sub>
 </div>

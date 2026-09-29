@@ -6,7 +6,7 @@
   <a href="https://github.com/Kitho-Lee?tab=followers">
     <img src="https://img.shields.io/github/followers/Kitho-Lee?style=for-the-badge&logo=github&label=Followers&color=7c3aed&labelColor=0d1117" alt="GitHub followers" />
   </a>
-  <img src="https://komarev.com/ghpvc/?username=Kitho-Lee&style=for-the-badge&color=06b6d4&label=PROFILE+VIEWS" alt="Profile views" />
+  <img src="https://img.shields.io/badge/PROFILE-ONLINE-06b6d4?style=for-the-badge&labelColor=0d1117" alt="Profile online" />
   <a href="https://github.com/Kitho-Lee">
     <img src="https://img.shields.io/badge/BUILDING_IN_PUBLIC-ec4899?style=for-the-badge&logo=github&logoColor=white" alt="Building in public" />
   </a>

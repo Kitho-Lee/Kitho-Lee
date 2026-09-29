@@ -1,64 +1,82 @@
 <div align="center">
-  <img src="./assets/header.svg" width="100%" alt="Neon developer profile banner" />
+  <img src="./assets/ink-tech-header-v2.svg" width="100%" alt="Kitho Lee — ink and technology" />
 </div>
 
 <div align="center">
   <a href="https://github.com/Kitho-Lee?tab=followers">
-    <img src="https://img.shields.io/github/followers/Kitho-Lee?style=for-the-badge&logo=github&label=Followers&color=7c3aed&labelColor=0d1117" alt="GitHub followers" />
+    <img src="https://img.shields.io/github/followers/Kitho-Lee?style=for-the-badge&logo=github&label=FOLLOWERS&color=B8893E&labelColor=111111" alt="GitHub followers" />
   </a>
-  <img src="https://img.shields.io/badge/PROFILE-ONLINE-06b6d4?style=for-the-badge&labelColor=0d1117" alt="Profile online" />
+  <img src="https://img.shields.io/badge/PROFILE-ONLINE-B8893E?style=for-the-badge&labelColor=111111" alt="Profile online" />
   <a href="https://github.com/Kitho-Lee">
-    <img src="https://img.shields.io/badge/BUILDING_IN_PUBLIC-ec4899?style=for-the-badge&logo=github&logoColor=white" alt="Building in public" />
+    <img src="https://img.shields.io/badge/BUILDING_IN_PUBLIC-111111?style=for-the-badge&logo=github&logoColor=B8893E" alt="Building in public" />
   </a>
+</div>
+
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=3000&pause=1000&color=B8893E&center=true&vCenter=true&width=760&lines=Designing+with+intention.;Building+with+curiosity.;Learning+in+public%2C+one+commit+at+a+time." alt="Typing introduction" />
 </div>
 
 <br />
 
-## 👾 About me
+## 01 · About
 
-```typescript
-const developer = {
-  name: "Kitho Lee",
-  role: "Developer in progress",
-  mode: "Building · Learning · Shipping",
-  interests: ["Web", "AI", "Open source"],
-  currentMission: "Turn curiosity into useful things",
-  motto: "One idea. One commit. Every day."
-};
-```
+I'm **Kitho Lee** — a curious developer drawn to the space where thoughtful design, modern technology, and practical intelligence meet.
 
-> Starting from a blank canvas and building in public — one meaningful commit at a time.
+I enjoy turning uncertain ideas into clear, useful digital experiences. Right now, I am building strong foundations across the modern web, exploring how AI can improve everyday tools, and documenting the process openly as I grow.
 
-## ⚡ Currently exploring
+> My approach is simple: stay curious, build with intention, and let every project teach me something new.
+
+## 02 · Currently exploring
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,python,git,github,vscode&theme=dark&perline=10" alt="Technologies I am exploring" />
+  <img src="https://img.shields.io/badge/HTML5-111111?style=for-the-badge&logo=html5&logoColor=B8893E" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-111111?style=for-the-badge&logo=css&logoColor=B8893E" alt="CSS3" />
+  <img src="https://img.shields.io/badge/JavaScript-111111?style=for-the-badge&logo=javascript&logoColor=B8893E" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/TypeScript-111111?style=for-the-badge&logo=typescript&logoColor=B8893E" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/React-111111?style=for-the-badge&logo=react&logoColor=B8893E" alt="React" />
+  <img src="https://img.shields.io/badge/Node.js-111111?style=for-the-badge&logo=nodedotjs&logoColor=B8893E" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Python-111111?style=for-the-badge&logo=python&logoColor=B8893E" alt="Python" />
+  <img src="https://img.shields.io/badge/Git-111111?style=for-the-badge&logo=git&logoColor=B8893E" alt="Git" />
 </div>
 
-## 📊 Signal & momentum
+## 03 · Signal & momentum
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Kitho-Lee&show_icons=true&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=22d3ee&text_color=c9d1d9&rank_icon=github" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=Kitho-Lee&show_icons=true&hide_border=true&title_color=7c3aed&icon_color=0891b2" />
-    <img height="170" src="https://github-readme-stats.vercel.app/api?username=Kitho-Lee&show_icons=true&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=22d3ee&text_color=c9d1d9&rank_icon=github" alt="GitHub statistics" />
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Kitho-Lee&layout=compact&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9&langs_count=8" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Kitho-Lee&layout=compact&hide_border=true&title_color=7c3aed&langs_count=8" />
-    <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kitho-Lee&layout=compact&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9&langs_count=8" alt="Most used languages" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Kitho-Lee&theme=github_dark" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Kitho-Lee&theme=default" />
+    <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Kitho-Lee&theme=default" alt="GitHub profile activity summary" />
   </picture>
 </div>
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=Kitho-Lee&hide_border=true&background=0D1117&ring=A78BFA&fire=EC4899&currStreakLabel=22D3EE&sideLabels=C9D1D9&dates=8B949E&currStreakNum=FFFFFF&sideNums=FFFFFF" />
-    <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=Kitho-Lee&hide_border=true&ring=7C3AED&fire=DB2777&currStreakLabel=0891B2" />
-    <img src="https://streak-stats.demolab.com?user=Kitho-Lee&hide_border=true&background=0D1117&ring=A78BFA&fire=EC4899&currStreakLabel=22D3EE&sideLabels=C9D1D9&dates=8B949E&currStreakNum=FFFFFF&sideNums=FFFFFF" alt="GitHub contribution streak" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=Kitho-Lee&hide_border=true&background=0D1117&ring=B8893E&fire=D1A759&currStreakLabel=D1A759&sideLabels=C9D1D9&dates=8B949E&currStreakNum=FFFFFF&sideNums=FFFFFF" />
+    <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=Kitho-Lee&hide_border=true&background=F7F3EA&ring=8C642D&fire=B8893E&currStreakLabel=8C642D&sideLabels=44413C&dates=77736D&currStreakNum=111111&sideNums=111111" />
+    <img src="https://streak-stats.demolab.com?user=Kitho-Lee&hide_border=true&background=F7F3EA&ring=8C642D&fire=B8893E&currStreakLabel=8C642D&sideLabels=44413C&dates=77736D&currStreakNum=111111&sideNums=111111" alt="GitHub contribution streak" />
   </picture>
 </div>
 
-## 🚀 Build log
+## 04 · The roadmap
+
+<table>
+  <tr>
+    <td align="center" width="33%">
+      <h3>01 · Explore</h3>
+      <p>Learn the fundamentals deeply.</p>
+    </td>
+    <td align="center" width="33%">
+      <h3>02 · Build</h3>
+      <p>Turn small ideas into real products.</p>
+    </td>
+    <td align="center" width="33%">
+      <h3>03 · Share</h3>
+      <p>Document the journey in public.</p>
+    </td>
+  </tr>
+</table>
+
+## 05 · Build log
 
 <table>
   <tr>
@@ -77,24 +95,24 @@ const developer = {
   </tr>
 </table>
 
-## 🛰️ Current signal
+## 06 · Current signal
 
 - 🔭 Building a public developer journey from the ground up
 - 🌱 Exploring modern web development and practical AI
 - 🧩 Turning small ideas into working, shareable projects
 - ⚡ Believing that consistency beats intensity
 
-## 🤝 Find me here
+## 07 · Find me here
 
 <div align="center">
   <a href="https://github.com/Kitho-Lee">
-    <img src="https://img.shields.io/badge/GitHub-Kitho--Lee-0d1117?style=for-the-badge&logo=github&logoColor=a78bfa" alt="GitHub profile" />
+    <img src="https://img.shields.io/badge/GitHub-Kitho--Lee-111111?style=for-the-badge&logo=github&logoColor=B8893E" alt="GitHub profile" />
   </a>
 </div>
 
 <br />
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=gradient&customColorList=12,14,18,20,24" width="100%" alt="Gradient divider" />
-  <sub>Designed with curiosity, built with intention.</sub>
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=B8893E" width="100%" alt="Gold divider" />
+  <sub>DESIGNED WITH CURIOSITY · BUILT WITH INTENTION</sub>
 </div>

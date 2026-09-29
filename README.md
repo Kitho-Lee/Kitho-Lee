@@ -1,6 +1,10 @@
 <div align="center">
-  <img src="./assets/ink-tech-ai-header.svg" width="100%" alt="Jiehao Li — AI researcher, engineer, and builder" />
+  <img src="./assets/ink-tech-ai-header-bg-final-1200.png" width="100%" alt="Ink-wash AI landscape with a road toward the future" />
 </div>
+
+<h1 align="center">Jiehao Li · Kitho Lee</h1>
+
+<p align="center"><code>AI RESEARCHER · ENGINEER · BUILDER</code></p>
 
 <div align="center">
   <a href="https://github.com/Kitho-Lee?tab=followers">
@@ -112,15 +116,15 @@ I enjoy turning technical ideas into practical products. My interests span **AI 
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Kitho-Lee&theme=github_dark" />
-    <source mdia="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Kitho-Lee&theme=github_dark" />
-    <img width="100%" src="https://github-profile-sumary-cards.vercel.app/api/cards/profile-details?username=Kitho-Lee&theme=github_dark" alt="GitHub profile activity summary" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Kitho-Lee&theme=github_dark" />
+    <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Kitho-Lee&theme=github_dark" alt="GitHub profile activity summary" />
   </picture>
 </div>
 
 <div align="center">
   <picture>
-    <source mdia="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=Kitho-Lee&hide_border=true&background=0B1020&ring=38BDF8&fire=A78BFA&currStreakLabel=7DD3FC&sideLabels=C9D1D9&dates=64748B&currStreakNum=FFFFFF&sideNums=FFFFFF" />
-    <source mdia="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=Kitho-Lee&hide_border=true&background=0B1020&ring=38BDF8&fire=A78BFA&currStreakLabel=7DD3FC&sideLabels=C9D1D9&dates=64748B&currStreakNum=FFFFFF&sideNums=FFFFFF" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=Kitho-Lee&hide_border=true&background=0B1020&ring=38BDF8&fire=A78BFA&currStreakLabel=7DD3FC&sideLabels=C9D1D9&dates=64748B&currStreakNum=FFFFFF&sideNums=FFFFFF" />
+    <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=Kitho-Lee&hide_border=true&background=0B1020&ring=38BDF8&fire=A78BFA&currStreakLabel=7DD3FC&sideLabels=C9D1D9&dates=64748B&currStreakNum=FFFFFF&sideNums=FFFFFF" />
     <img src="https://streak-stats.demolab.com?user=Kitho-Lee&hide_border=true&background=0B1020&ring=38BDF8&fire=A78BFA&currStreakLabel=7DD3FC&sideLabels=C9D1D9&dates=64748B&currStreakNum=FFFFFF&sideNums=FFFFFF" alt="GitHub contribution streak" />
   </picture>
 </div>
@@ -137,5 +141,5 @@ I enjoy turning technical ideas into practical products. My interests span **AI 
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=38BDF8" width="100%" alt="Cyan divider" />
-  <sub><b>// BUILD THINGS · UNDERSTANDD SYSTEMS · KEEP MOVING FORWARD //</b></sub>
+  <sub><b>// BUILD THINGS · UNDERSTAND SYSTEMS · KEEP MOVING FORWARD //</b></sub>
 </div>
